@@ -1,0 +1,55 @@
+{
+  "events": [
+    {
+      "id": 0,
+      "startTime": "00:00:01:00",
+      "endTime": "00:00:10:00",
+      "captionType": "Logo",
+      "captionData": {
+        "location": "top",
+        "action": "off"
+      }
+    },
+    {
+      "id": 1,
+      "startTime": "00:00:02:00",
+      "endTime": "00:00:03:20",
+      "captionType": "NameSuper",
+      "captionData": {
+        "line1": "a rabbit hole",
+        "action": "off"
+      }
+    },
+    {
+      "id": 2,
+      "startTime": "00:00:04:00",
+      "endTime": "00:00:05:10",
+      "captionType": "NameSuper",
+      "captionData": {
+        "line1": "a tree",
+        "line2": "(a big one)",
+        "action": "off"
+      }
+    },
+    {
+        "id": 3,
+        "startTime": "00:00:06:00",
+        "endTime": "00:00:06:20",
+        "captionType": "NameSuper",
+        "captionData": {
+          "line1": "some rocks",
+          "action": "off"
+        }
+      },
+      {
+          "id": 4,
+          "startTime": "00:00:07:00",
+          "endTime": "00:00:08:14",
+          "captionType": "NameSuper",
+          "captionData": {
+            "line1": "some grass",
+            "action": "off"
+          }
+        }
+  ]
+}
